@@ -1,0 +1,72 @@
+.corg1pic {
+    max-width: 300px;
+    height: auto;
+}
+
+.topquadrant {
+    background: #1F2937;
+    font-family: sans-serif;
+}
+
+.headerlogo {
+    font-size: 24px;
+    color: #F9faf8;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+}
+
+.herotext {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.herosubtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button {
+    background: #3882f6;
+    color: #f9faf8;
+    border-radius: 5px;
+    width: 90px;
+    height: 25px;
+    border-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+li {
+    list-style-type: none;
+}
+
+.headline{
+    display: flex;
+    justify-content: space-around;
+}
+
+.headerlinks{
+    display: flex;
+    gap: 15px;
+}
+
+.herocorg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.hero{
+    flex-wrap: wrap;
+    width: 450px;
+}
+
+.corg1pic{
+    margin-bottom: 10px;
+}
