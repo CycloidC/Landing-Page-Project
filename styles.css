@@ -169,3 +169,8 @@ footer {
     align-items: center;
     font-size: 12px;
 }
+
+body, html {
+    padding: 0;
+    margin: 0;
+}
